@@ -1,0 +1,15 @@
+d:\Users\Mega\Desktop\Нова папка\Template-Method\TemplateMethod\bin\Debug\net9.0\TemplateMethod.exe
+d:\Users\Mega\Desktop\Нова папка\Template-Method\TemplateMethod\bin\Debug\net9.0\TemplateMethod.deps.json
+d:\Users\Mega\Desktop\Нова папка\Template-Method\TemplateMethod\bin\Debug\net9.0\TemplateMethod.runtimeconfig.json
+d:\Users\Mega\Desktop\Нова папка\Template-Method\TemplateMethod\bin\Debug\net9.0\TemplateMethod.dll
+d:\Users\Mega\Desktop\Нова папка\Template-Method\TemplateMethod\bin\Debug\net9.0\TemplateMethod.pdb
+d:\Users\Mega\Desktop\Нова папка\Template-Method\TemplateMethod\obj\Debug\net9.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\Mega\Desktop\Нова папка\Template-Method\TemplateMethod\obj\Debug\net9.0\TemplateMethod.AssemblyInfoInputs.cache
+d:\Users\Mega\Desktop\Нова папка\Template-Method\TemplateMethod\obj\Debug\net9.0\TemplateMethod.AssemblyInfo.cs
+d:\Users\Mega\Desktop\Нова папка\Template-Method\TemplateMethod\obj\Debug\net9.0\TemplateMethod.csproj.CoreCompileInputs.cache
+d:\Users\Mega\Desktop\Нова папка\Template-Method\TemplateMethod\obj\Debug\net9.0\TemplateMethod.sourcelink.json
+d:\Users\Mega\Desktop\Нова папка\Template-Method\TemplateMethod\obj\Debug\net9.0\TemplateMethod.dll
+d:\Users\Mega\Desktop\Нова папка\Template-Method\TemplateMethod\obj\Debug\net9.0\refint\TemplateMethod.dll
+d:\Users\Mega\Desktop\Нова папка\Template-Method\TemplateMethod\obj\Debug\net9.0\TemplateMethod.pdb
+d:\Users\Mega\Desktop\Нова папка\Template-Method\TemplateMethod\obj\Debug\net9.0\TemplateMethod.genruntimeconfig.cache
+d:\Users\Mega\Desktop\Нова папка\Template-Method\TemplateMethod\obj\Debug\net9.0\ref\TemplateMethod.dll

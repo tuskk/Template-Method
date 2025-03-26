@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Mega\\Desktop\\Нова папка\\Template-Method\\TemplateMethod\\TemplateMethod.csproj": {}
+    "d:\\Users\\Mega\\Desktop\\Нова папка\\Template-Method\\TemplateMethod\\TemplateMethod.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Mega\\Desktop\\Нова папка\\Template-Method\\TemplateMethod\\TemplateMethod.csproj": {
+    "d:\\Users\\Mega\\Desktop\\Нова папка\\Template-Method\\TemplateMethod\\TemplateMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Mega\\Desktop\\Нова папка\\Template-Method\\TemplateMethod\\TemplateMethod.csproj",
+        "projectUniqueName": "d:\\Users\\Mega\\Desktop\\Нова папка\\Template-Method\\TemplateMethod\\TemplateMethod.csproj",
         "projectName": "TemplateMethod",
-        "projectPath": "D:\\Users\\Mega\\Desktop\\Нова папка\\Template-Method\\TemplateMethod\\TemplateMethod.csproj",
+        "projectPath": "d:\\Users\\Mega\\Desktop\\Нова папка\\Template-Method\\TemplateMethod\\TemplateMethod.csproj",
         "packagesPath": "C:\\Users\\Mega\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Mega\\Desktop\\Нова папка\\Template-Method\\TemplateMethod\\obj\\",
+        "outputPath": "d:\\Users\\Mega\\Desktop\\Нова папка\\Template-Method\\TemplateMethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mega\\AppData\\Roaming\\NuGet\\NuGet.Config"
