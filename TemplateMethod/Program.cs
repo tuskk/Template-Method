@@ -4,12 +4,12 @@ class Program
 {
     static void Main()
     {
-        GameAI orcs = new BoizAI();
+        GameAI Boiz = new BoizAI();
         orcs.Turn();
 
         Console.WriteLine();
 
-        GameAI monsters = new KorpsOfKriegAI();
+        GameAI KorpsOfKrieg = new KorpsOfKriegAI();
         monsters.Turn();
     }
 }
