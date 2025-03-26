@@ -4,12 +4,12 @@ class Program
 {
     static void Main()
     {
-        AbstractClass objA = new ConcreteClassA();
-        objA.TemplateMethod();
+        GameAI orcs = new BoizAI();
+        orcs.Turn();
 
         Console.WriteLine();
 
-        AbstractClass objB = new ConcreteClassB();
-        objB.TemplateMethod();
+        GameAI monsters = new KorpsOfKriegAI();
+        monsters.Turn();
     }
 }
